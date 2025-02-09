@@ -7,7 +7,8 @@ The Dice Game is a simple and interactive game where two players roll a dice, an
 - **CSS** 🎨 – Styling and layout  
 - **JavaScript** ⚡ – Game logic and interactivity  
 
-
+Working:
+https://anshukushagra.github.io/DiceGame/
 
 . "Here’s a preview of the login page. Check it out below! 👇"
 ![Screenshot](https://github.com/AnshuKushagra/DiceGame/blob/main/Screenshot%20(386).png?raw=true)
